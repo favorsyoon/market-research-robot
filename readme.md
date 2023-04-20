@@ -49,5 +49,8 @@ url = 'https://search.naver.com/search.naver?where=news&query={}&sm=tab_opt&sort
 2.  2페이지로 클릭해서 이동한다.
 3.  2초 휴식
 4.  2페이지에 있는 뉴스링크들을 모두 크롤링 한다.
+5.  3페이지를 클릭해서 이동한다.
+6.  2초 휴식
+7.  이렇게 모든 페이지를 전부 크롤링하면, 브라우저를 종료한다.
 
 </details>

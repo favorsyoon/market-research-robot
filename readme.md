@@ -1,4 +1,4 @@
-# 목적
+# project brainstorming
 
 market research robot for MarketInsight ,TradingOptimizing, MarketMaster ,
 
